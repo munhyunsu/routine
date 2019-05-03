@@ -7,3 +7,7 @@
 ```bash
 apt-get install python3
 ```
+
+## Author
+- Hyunsu Mun (munhyunsu@gmail.com)
+
