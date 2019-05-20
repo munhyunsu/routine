@@ -8,6 +8,9 @@
 apt-get install python3
 ```
 
+## White paper
+- KNOM Conference
+
 ## Author
 - Hyunsu Mun (munhyunsu@gmail.com)
 
