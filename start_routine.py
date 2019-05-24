@@ -1,9 +1,11 @@
+import pprint
 import config
 
 FLAGS = None
 
 
 def main(_):
+    # TODO(LuHa): read configuration from file
     pass
 
 
